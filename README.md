@@ -9,7 +9,11 @@ This is a prefab spawner for Unity Engine 3D with many features. You can change 
 7. Add A Collider(None,Box Collider,Sphere Collider,Capοsule Collider,Mesh Collider)
 8. Add A Script if it exists
 9. Add a tag if it exists.
-10. You can download the Unity Package and add it into your Project on Itch.io: (https://itchiovp.itch.io/25d-unity-3d-free-to-use-dialogue-system)
+- You can download the Unity Package and add it into your Project on Itch.io: (https://itchiovp.itch.io/25d-unity-3d-free-to-use-dialogue-system)
+## How to Install
+1. Clone this GitHub Repository to your computer.
+2. Open the Project in Unity Hub using Unity Version 2021.3.17f1
 
+## Screenshots
 ![Screenshots](https://img.itch.zone/aW1hZ2UvMjAxODgxMC8xMzg4NDczNy5wbmc=/original/jpDXkw.png)
 ![Screenshots](https://img.itch.zone/aW1hZ2UvMjAxODgxMC8xMzg4NDczMi5wbmc=/original/qr977K.png)
